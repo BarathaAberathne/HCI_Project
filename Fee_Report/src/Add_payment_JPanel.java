@@ -86,6 +86,7 @@ public class Add_payment_JPanel extends javax.swing.JPanel {
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons8-writer-male-24.png"))); // NOI18N
         jLabel6.setText("Student Name");
 
+        jTextField3.setEditable(false);
         jTextField3.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jTextField3.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(74, 74, 74), 1, true));
 
@@ -93,6 +94,7 @@ public class Add_payment_JPanel extends javax.swing.JPanel {
         jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons8-name-tag-24.png"))); // NOI18N
         jLabel7.setText("Student Email");
 
+        jTextField4.setEditable(false);
         jTextField4.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jTextField4.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(74, 74, 74), 1, true));
 
@@ -100,6 +102,7 @@ public class Add_payment_JPanel extends javax.swing.JPanel {
         jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons8-phone-24.png"))); // NOI18N
         jLabel8.setText("Student Contact");
 
+        jTextField5.setEditable(false);
         jTextField5.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jTextField5.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(74, 74, 74), 1, true));
 
